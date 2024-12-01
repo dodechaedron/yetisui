@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'milky-nice';
+					src: url('../fonts/2103milky-nice.woff2') format('woff2'),
+						url('../fonts/2103milky-nice.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.milky-nice{font-family: 'milky-nice' !important;}
+
+		
